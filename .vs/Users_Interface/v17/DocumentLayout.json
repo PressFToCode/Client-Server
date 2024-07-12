@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0440\u0441\u043B\u0430\u043D\\source\\repos\\Course-client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1532BEB6-48AE-4D46-9FA9-03D85A30DC51}|Users_Interface\\Users_Interface.csproj|c:\\users\\\u0430\u0440\u0441\u043B\u0430\u043D\\source\\repos\\course-client\\users_interface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1532BEB6-48AE-4D46-9FA9-03D85A30DC51}|Users_Interface\\Users_Interface.csproj|solutionrelative:users_interface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0441\u043B\u0430\u043D\\source\\repos\\Course-client\\Users_Interface\\Form1.cs",
+              "RelativeDocumentMoniker": "Users_Interface\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0441\u043B\u0430\u043D\\source\\repos\\Course-client\\Users_Interface\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Users_Interface\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T22:58:28.022Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
